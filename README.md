@@ -125,7 +125,7 @@ if __name__ == "__main__":
 <td align="left"><code>show_label</code></td>
 <td align="left" style="width: 15%;"><pre><code>bool | None</code></pre></td>
 <td align="left"><code>None</code></td>
-<td align="left">If True, will display the label. Defaults to None.</td>
+<td align="left">If True, will display the label. Defaults to True.</td>
 </tr>
 
 <tr>
