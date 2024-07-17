@@ -8,6 +8,8 @@
 
 A banner component for displaying important information, alerts, notifications, and types of messages within a Gradio Blocks.
 
+![screenshot](https://raw.githubusercontent.com/dwancin/gradio-banner/main/assets/preview.png)
+
 ## Installation
 
 ```bash
