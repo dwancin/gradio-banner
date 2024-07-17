@@ -58,7 +58,7 @@ class Banner(FormComponent):
             label: 
                 The headline of the banner. Supports markdown formatting.
             icon: 
-                URL or path to the icon file to display within the banner. If None, no icon will be displayed.
+                URL or path to the icon file to display within the banner. If None, default icon will be used.
             size: 
                 Size of the banner. Can be "sm" (small) or "lg" (large). Defaults to "lg".
             show_close_button: 
